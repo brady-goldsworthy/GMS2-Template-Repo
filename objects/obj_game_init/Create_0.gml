@@ -2,5 +2,6 @@
 
 camera_init();
 
+input_init();
 
 alarm[0] = 1;
