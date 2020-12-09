@@ -41,6 +41,7 @@
     {"id":{"name":"diff_lt","path":"scripts/diff_lt/diff_lt.yy",},"order":1,},
     {"id":{"name":"obj_game_init","path":"objects/obj_game_init/obj_game_init.yy",},"order":1,},
     {"id":{"name":"StateMachine","path":"scripts/StateMachine/StateMachine.yy",},"order":0,},
+    {"id":{"name":"animcurve_get_value","path":"scripts/animcurve_get_value/animcurve_get_value.yy",},"order":0,},
     {"id":{"name":"obj_precise_tile_checker","path":"objects/obj_precise_tile_checker/obj_precise_tile_checker.yy",},"order":6,},
     {"id":{"name":"Easing","path":"scripts/Easing/Easing.yy",},"order":0,},
     {"id":{"name":"random_offset","path":"scripts/random_offset/random_offset.yy",},"order":2,},
@@ -114,6 +115,7 @@
     {"folderPath":"folders/Scripts/Collisions.yy","order":10,"resourceVersion":"1.0","name":"Collisions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Util/Math.yy","order":10,"resourceVersion":"1.0","name":"Math","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Scripts/Camera.yy","order":11,"resourceVersion":"1.0","name":"Camera","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts/Easing/AnimCurves.yy","order":3,"resourceVersion":"1.0","name":"AnimCurves","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
